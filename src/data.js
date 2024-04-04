@@ -32,12 +32,12 @@ export const data = [
     {
         id: 7,
         gift: "Warm sherpa hoodie",
-        image: "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/449753/item/usgoods_10_449753.jpg?width=850"
+        image: "https://cdni.llbean.net/is/image/wim/508967_461_41?hei=1092&wid=950&resMode=sharp2&defaultImage=llbprod/508967_461_41"
     },
     {
         id: 8,
         gift: "5 acres of land",
-        image: "https://www.zillow.com/homedetails/1556-Dogwood-Dr-86-Oxford-NC-27565/341984079_zpid/"
+        image: "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         id: 9,
